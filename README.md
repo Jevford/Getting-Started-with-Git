@@ -1,2 +1,2 @@
-#Getting Started with Git
+# Getting Started with Git
 Learning basic Git
